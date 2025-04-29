@@ -1,0 +1,38 @@
+th
+{
+    width: 100px;
+    height: 100px;
+}
+
+img
+{
+    width: 50px;
+}
+
+footer
+{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+    height: 100px;
+}
+
+th
+{
+    width: 100px;
+}
+
+tr
+{
+    height: 100px;
+}
+
+.blanco
+{
+    background-color: lightyellow;
+}
+
+.negro
+{
+    background-color: peru;
+}
